@@ -4,6 +4,6 @@
 ##### Also I have cretaed Public API to access all Blogs
 
 ##### I have added pagination and JWT as well in This Project.
-#### I did this project for my Intereste.
+#### I did this project just to demo, a CICD pipeline using AWS codepipeline.
 
 ## Cheers!
